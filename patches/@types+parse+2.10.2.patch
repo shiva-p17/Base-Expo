@@ -1,0 +1,12 @@
+diff --git a/node_modules/@types/parse/index.d.ts b/node_modules/@types/parse/index.d.ts
+index 153b109..9cc7c4a 100644
+--- a/node_modules/@types/parse/index.d.ts
++++ b/node_modules/@types/parse/index.d.ts
+@@ -114,6 +114,7 @@ declare namespace Parse {
+         useMasterKey?: boolean;
+         sessionToken?: string;
+         installationId?: string;
++        usePost?: boolean;
+         progress?: Function;
+     }
+ 

@@ -1,0 +1,16 @@
+export const PRIMARY_COLOR = '#182130';
+export const MAIN_BLUE = '#182130';
+export const HEADER_BACKGROUND = '#182130';
+export const ACTIVITY_INDICATOR_COLOR = '#182130';
+export const WHITE_COLOR = '#ffffff';
+export const HEADER_TEXT_COLOR = '#ffffff';
+export const BLACK_COLOR = '#000000';
+export const DRAWER_HEADER_TEXT = '#ffffff';
+export const MODAL_TEXT_COLOR = '#000000';
+export const LIGHT_GREY = '#EEEEEE';
+export const GREY_COLOR = '#DDDDDD';
+export const LABEL_TEXT_COLOR = '#FFFFFF';
+export const TRANSPARENT_COLOR = 'rgba(0,0,0,0)';
+export const MEDIUM_GREY_COLOR = '#DDDDDD';
+export const DARK_GREY= '#999999';
+export const RED_COLOR = '#FF0000';
